@@ -32,5 +32,6 @@ while True:
         r=f*0.0003048
     elif a==8:
         break
-    print('The required result=',r)
+    print("The required result=",r)
+
 
